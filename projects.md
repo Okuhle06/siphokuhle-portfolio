@@ -1,7 +1,7 @@
 # Projects
 
 <nav>
-[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Skills](skills.md) | [Contact](contact.md)
+[Home](index.html) | [About](about.html) | [Projects](projects.html) | [Skills](skills.html) | [Contact](contact.html)
 </nav>
 
 ---
