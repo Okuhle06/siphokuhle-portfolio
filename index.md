@@ -2,8 +2,6 @@
 
 **Computer Engineering Student | Customer Support Specialist | Aspiring Software Engineer**
 
----
-
 [Home](index.html)  
 [About](about.html)  
 [Projects](projects.html)  
